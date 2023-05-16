@@ -11,3 +11,16 @@ As you develop the plugin, consider the end-user experience, including ease of i
 
 Your success will be measured by the overall functionality of the plugin, user satisfaction, adoption rate, and the impact of your solution on streamlining the job application process for candidates.
 
+# Installation instructions : 
+
+Go to the Extensions page by entering chrome://extensions in a new tab. (By design chrome:// URLs are not linkable.)
+
+Alternatively, click on the Extensions menu puzzle button and select Manage Extensions at the bottom of the menu.
+Or, click the Chrome menu, hover over More Tools, then select Extensions.
+Enable Developer Mode by clicking the toggle switch next to Developer mode.
+
+Click the Load unpacked button and select the extension directory.
+
+# Pinning the extension : 
+
+By default, when you load your extension locally, it will appear in the extensions menu Puzzle. Pin your extension to the toolbar to quickly access your extension during development.

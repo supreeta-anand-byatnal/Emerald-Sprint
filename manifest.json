@@ -1,0 +1,11 @@
+{
+    "manifest_version" : 3 ,
+    "name" : "Emerald Resume",
+    "description" : "Extension to autofill job-applications using your resume",
+    "version" : "1.0",
+    "action" : {
+        "default_popup" : "hello.html",
+        "default_icon" : "hello_extensions.png"
+    } 
+
+}
